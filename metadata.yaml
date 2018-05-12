@@ -1,0 +1,30 @@
+_repo: Vashti--Or-Until-Death-Us-Do-Part_31620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Augusta J. (Augusta Jane)
+    aliases:
+    - Wilson, Augusta Jane Evans
+    - Wilson, Augusta J. Evans
+    - Wilson, Augusta Evans
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1399'
+    url: http://www.gutenberg.org/2009/agents/1399
+description: ''
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+title: Vashti; Or, Until Death Us Do Part
+url: http://www.gutenberg.org/ebooks/31620
